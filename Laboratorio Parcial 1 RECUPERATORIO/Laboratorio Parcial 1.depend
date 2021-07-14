@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1625861164 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidades.h"
+	"misFuncionesGet.h"
+
+1626250327 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFuncionesGet.h"
+	"entidades.h"
+	"informes.h"
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1624163304 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\misfuncionesget.h
+
+1626250177 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626248964 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1626037929 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidades.h"
+	"misFuncionesGet.h"
+
+1625861164 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidades.h"
+	"misFuncionesGet.h"
+
+1626251142 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626250076 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\entidades.h
+
+1626247997 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\informes.h
+	"entidades.h"
+
+1626251306 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626248788 source:c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626248685 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\cliente.h
+	"entidades.h"
+
+1626250099 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\mascota.h
+	"entidades.h"
+
+1626248206 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\tipo.h
+	"entidades.h"
+
+1626248274 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\color.h
+	"entidades.h"
+
+1626248448 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\trabajo.h
+	"entidades.h"
+
+1626248348 c:\users\federico\desktop\laboratorio 2021\laboratorio parcial 1\servicio.h
+	"entidades.h"
+
+1626248788 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626250099 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\mascota.h
+	"entidades.h"
+
+1626250076 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\entidades.h
+
+1626247997 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\informes.h
+	"entidades.h"
+
+1624163304 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\misfuncionesget.h
+
+1626248206 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\tipo.h
+	"entidades.h"
+
+1626248274 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\color.h
+	"entidades.h"
+
+1626248685 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\cliente.h
+	"entidades.h"
+
+1626248448 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\trabajo.h
+	"entidades.h"
+
+1626248348 c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\servicio.h
+	"entidades.h"
+
+1625861164 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidades.h"
+	"misFuncionesGet.h"
+
+1626251306 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626251612 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFuncionesGet.h"
+	"entidades.h"
+	"informes.h"
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626250177 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
+1626248964 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1626037929 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidades.h"
+	"misFuncionesGet.h"
+
+1625861164 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidades.h"
+	"misFuncionesGet.h"
+
+1626251612 source:c:\users\federico\desktop\laboratorio parcial 1 recuperatorio\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"informes.h"
+	"entidades.h"
+	"misFuncionesGet.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+	"servicio.h"
+
